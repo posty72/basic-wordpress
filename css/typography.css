@@ -1,0 +1,41 @@
+/*
+--- BARE-BONES TEMPLATE
+--- Typography Stylesheet
+--- By James Barnsley of PlasticStudio
+--- April 2012
+*/
+
+
+
+html, body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #444; }
+
+
+
+/* ========================================================= STANDARD ELEMENTS === */
+/* =============================================================================== */
+
+
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+	padding-bottom: 12px;
+	color: #000; }
+
+h2 {
+	font-size: 18px;
+	font-weight: normal;
+	padding-top: 12px;
+	padding-bottom: 4px;
+	color: #000;}
+
+h4 {
+	font-size: 18px;
+	font-weight: normal;
+	color: #000; }
+
+p {
+	color: #444 ;}

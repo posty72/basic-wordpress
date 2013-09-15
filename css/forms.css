@@ -1,0 +1,62 @@
+/*
+--- BARE-BONES TEMPLATE
+--- Forms Stylesheet
+--- By James Barnsley of PlasticStudio
+--- April 2012
+*/
+
+
+
+
+/* =================================================================== GENERAL === */
+/* =============================================================================== */
+
+
+input,
+textarea {
+	border: 1px solid #CCC;
+	padding: 4px 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px; }
+
+label {
+	display: block;
+	padding: 5px 0; }
+	
+label span {
+	display: block;
+	width: 100px;
+	float: left;
+	padding-top: 4px; }
+
+input[type=submit] {
+	border: 0;
+	background: #CCC;
+	color: #000;
+	cursor: hand;
+	cursor: pointer;
+	font-size: 16px;
+	width: auto;
+	margin-left: 100px; }
+	
+input[type=submit]:hover {
+	background: #AAA; }
+	
+	
+
+
+
+
+/* ================================================================= SPECIFICS === */
+/* =============================================================================== */
+	
+	
+input {
+	width: 200px; }
+	
+textarea {
+	width: 300px; }
+
+
+
+	

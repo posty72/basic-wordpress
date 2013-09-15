@@ -1,0 +1,30 @@
+/*
+--- BARE-BONES TEMPLATE
+--- Layout Stylesheet
+--- By James Barnsley of PlasticStudio
+--- April 2012
+*/
+
+
+
+/* reset */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0; }	
+	
+body {
+	background: url('../images/body-background.gif') top center repeat-y; }
+
+
+
+/* ================================================================= STRUCTURE === */
+/* =============================================================================== */
+
+#page {
+	width: 988px;
+	margin: 0 auto;
+	padding: 60px 0 0 0; }
+
+
+
